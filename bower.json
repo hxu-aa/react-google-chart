@@ -1,0 +1,27 @@
+{
+  "name": "react-google-chart",
+  "version": "0.0.1",
+  "authors": [
+    "haitao.xu <haixtao@gmail.com>"
+  ],
+  "description": "google chart with reactjs",
+  "main": "dist/react-google-chart.js",
+  "keywords": [
+    "react",
+    "google-chart",
+    "front-end",
+    "chart"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "google-chart": "~1.0.2",
+    "react": "~0.13.3"
+  }
+}
